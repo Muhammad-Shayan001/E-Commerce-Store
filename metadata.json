@@ -1,0 +1,13 @@
+
+{
+  "name": "Sweet Luxe",
+  "short_name": "SweetLuxe",
+  "description": "Enterprise-grade premium baking and confectionery intelligence platform.",
+  "theme_color": "#f43f5e",
+  "background_color": "#0f1115",
+  "display": "standalone",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
