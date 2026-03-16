@@ -1,4 +1,4 @@
-
+//! E-Commerce App
 import React, { useState, useEffect, createContext, useContext, useCallback } from 'react';
 import { Routes, Route, useLocation, useNavigate } from 'react-router-dom';
 import { AnimatePresence } from 'framer-motion';

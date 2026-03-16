@@ -1,9 +1,5 @@
 import { Order, User } from '../types.js';
 
-/**
- * EmailService simulates a backend email provider (SendGrid/Nodemailer).
- * In a production environment, these would be API calls to a microservice.
- */
 class EmailService {
   private static logEmail(to: string, subject: string, body: string) {
     console.log(
